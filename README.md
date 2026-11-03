@@ -17,3 +17,9 @@ Author - ZhangRongxin
 | | Submission - [benchmark.csv](./results/lab03/benchmark.csv) |
 | | Submission - [benchmark_summary.csv](./results/lab03/benchmark_summary.csv) |
 | | Submission - [benchmark_expansions.png](./results/lab03/benchmark_expansions.png) |
+| 2026/10/21 | Lab 05 - [Robotics Sensor Control (code)](./all_experiments/lab05_robotics_sensor_control.py) |
+| | Submission - [metrics.csv](./results/lab05/metrics.csv) |
+| | Submission - [feature_scores.csv](./results/lab05/feature_scores.csv) |
+| | Submission - [rule_controller.txt](./results/lab05/rule_controller.txt) |
+| | Submission - [confusion_matrices.png](./results/lab05/confusion_matrices.png) |
+| | Submission - [noise_robustness.png](./results/lab05/noise_robustness.png) |
