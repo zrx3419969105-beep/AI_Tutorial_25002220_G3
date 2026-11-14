@@ -23,8 +23,6 @@ Author - ZhangRongxin
 | | Submission - [rule_controller.txt](./results/lab05/rule_controller.txt) |
 | | Submission - [confusion_matrices.png](./results/lab05/confusion_matrices.png) |
 | | Submission - [noise_robustness.png](./results/lab05/noise_robustness.png) |
-| 2026/10/21 | Lab 05 - [Robotics Sensor Control (code)](./all_experiments/lab05_robotics_sensor_control.py) |
-| | Submission - [metrics.csv](./results/lab05/metrics.csv) |
 | 2026/11/04 | Lab 06 - [Handwriting OCR (code)](./all_experiments/lab06_handwriting_ocr_worked.py) |
 | | Submission - [metrics.csv](./results/lab06/metrics.csv) |
 | | Submission - [predictions.csv](./results/lab06/predictions.csv) |
