@@ -3,8 +3,6 @@
 Author - Zhangrongxin
 
 | Date | Lab Tasks |
-| :--- | :--- |
-| | [Assignments (all assignments)](./AI%20assignment2.docx) |
 | 2026/10/02 | Lab 01 - [Search Foundations (code)](./all_experiments/lab01_search_foundations.py) |
 | | Submission - [metrics.csv](./results/lab01/metrics.csv) |
 | | Submission - [route_comparison.png](./results/lab01/route_comparison.png) |
