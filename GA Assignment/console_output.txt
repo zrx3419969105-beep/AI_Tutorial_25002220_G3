@@ -1,0 +1,20 @@
+Delivery Route Optimisation with a Genetic Algorithm
+Depot: A | Delivery points: B C D E F G
+
+Generation 10 | best distance so far: 31 km
+Generation 20 | best distance so far: 29 km
+Generation 30 | best distance so far: 29 km
+Generation 40 | best distance so far: 29 km
+Generation 50 | best distance so far: 29 km
+Generation 60 | best distance so far: 29 km
+Generation 70 | best distance so far: 29 km
+Generation 80 | best distance so far: 29 km
+Generation 90 | best distance so far: 29 km
+Generation 100 | best distance so far: 29 km
+
+Best route found:
+  A -> G -> F -> C -> D -> E -> B -> A
+Total distance: 29 km
+
+
+Convergence chart saved to convergence.png
